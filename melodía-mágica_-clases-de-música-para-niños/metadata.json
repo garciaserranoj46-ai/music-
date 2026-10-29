@@ -1,0 +1,6 @@
+{
+  "name": "Melodía Mágica: Clases de Música para Niños",
+  "description": "Aplicación interactiva para aprender música con juegos pedagógicos, pentagrama interactivo, niveles progresivos de teoría y recompensas virtuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
